@@ -1,0 +1,12 @@
+C:\Users\Rene Zamostni\source\repos\IoTPromet\bin\Debug\IoTPromet.exe.config
+C:\Users\Rene Zamostni\source\repos\IoTPromet\bin\Debug\IoTPromet.exe
+C:\Users\Rene Zamostni\source\repos\IoTPromet\bin\Debug\IoTPromet.pdb
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.csprojAssemblyReference.cache
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.PrometForm.resources
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.InterfaceVozilaForm.resources
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.LogForm.resources
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.Properties.Resources.resources
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.csproj.GenerateResource.cache
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.csproj.CoreCompileInputs.cache
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.exe
+C:\Users\Rene Zamostni\source\repos\IoTPromet\obj\Debug\IoTPromet.pdb
